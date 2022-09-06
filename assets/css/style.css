@@ -1,0 +1,27 @@
+body {
+
+    text-align: center;
+}
+
+h1 {
+    margin:0;
+}
+
+.header {
+    background-color: blueviolet;
+    color: #333333;
+    margin:0;
+    position: sticky;
+    top: 0;
+}
+
+.header a {
+    background-color: red;
+    padding:0 0 0 0;       /* top right bottom left */
+    margin:0 1rem;     /* ejeX  ejeY  */
+}
+
+.subtitulo {
+    color: gray;
+    text-decoration: underline;
+}
